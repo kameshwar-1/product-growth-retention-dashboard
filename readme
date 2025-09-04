@@ -1,0 +1,21 @@
+# Product Growth & Retention Dashboard
+
+An interactive Tableau dashboard built using Kaggle e-commerce dataset.  
+It tracks key product management KPIs:
+
+1. "Customer Growth" (Active Customers per Month)  
+2. Monthly Recurring Revenue (MRR)  
+3. ARPU (Average Revenue Per User) 
+4. Churn Analysis (Active vs Churned Customers, 90-day rule)  
+5. Top Customers Driving Revenue (Pareto/Segmentation)  
+
+# Files
+- 'Product_Growth_Retention_Dashboard.twbx' 
+- data_cleaned.csv - Cleaned dataset with calculated metrics  
+
+#Tools
+- Tableau Public  
+- Python (pandas, preprocessing)
+
+# Screenshot
+later
